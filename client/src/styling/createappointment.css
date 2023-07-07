@@ -1,0 +1,14 @@
+#create-appointment-page{
+    height: 540px;
+    background-color: rgb(219, 216, 211);
+}
+
+#create-form{
+    padding: 40px;
+    background-color: white;
+    position: absolute;
+    left: 29%;
+    width: 40%;
+    top: 90px;
+    border-radius: 5px;
+}

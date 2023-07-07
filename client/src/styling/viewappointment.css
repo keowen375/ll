@@ -1,0 +1,28 @@
+#all-appointments-page{
+    height: 540px;
+    background-color: rgb(219, 216, 211);
+}
+
+#appointments-table{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    width: 1000px;
+    background-color: white;
+}
+
+#welcome-message{
+    position: absolute;
+        top: 20%;
+        left: 15%;
+}
+
+#add-button{
+    position: absolute;
+    top: 29%;
+    left: 74%;
+}
+
+thead{
+	background-color: blueviolet;
+}

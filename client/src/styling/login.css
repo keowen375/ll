@@ -1,0 +1,13 @@
+#login-form{
+    width: 400px;
+    background-color: white;
+    padding: 30px;
+    position: absolute;
+    left: 38%;
+    top: 130px;
+}
+
+#login-page{
+    background-color: rgb(219, 216, 211);
+    height: 540px;
+}
